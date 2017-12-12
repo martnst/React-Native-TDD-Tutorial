@@ -1,6 +1,6 @@
 # Multunus | Test driving react native applications
 
-React Native is a game changing mobile app development framework that concentrates on fast development. Based on the philosophy "Learn once, write anywhere", it makes it possible to build IOS, Android and Windows mobile apps just using Javascript.
+React Native is a game changing mobile app development framework that concentrates on fast development. Based on the philosophy "Learn once, write anywhere", it makes it possible to build iOS, Android and Windows mobile apps just using Javascript.
 
 So React Native helps you to build awesome applications across multiple platforms. Now you have one question lingering in your head and that is the reason you are reading this post. How am I going to test these ? We also had the same question while working on React Native and couldn't find a hands-on tutorial that helps a beginner get started on writing tests for React Native applications. Read on this post and once you finish it, you will feel much more confident in testing React Native applications.
 
